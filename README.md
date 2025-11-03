@@ -1,2 +1,2 @@
-# expert-system
+# expert system
 Subject Coursework
